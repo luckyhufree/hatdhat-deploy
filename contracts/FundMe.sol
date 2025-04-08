@@ -44,9 +44,12 @@ contract FundMe {
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1d85b724062ba67fe7bef393f2594154a1226202
 
     function getChainlinkDataFeedLatestAnswer() public view returns (int) {
         // prettier-ignore
